@@ -25,31 +25,23 @@ The application contains the following key features:
 
 ### Login and Registration processes
 
-(Login image)
 ![alt text](https://github.com/sergioq12/Bind-Earth-Public/blob/main/images/LoginPage.png)
 
-(Registration) image
 ![alt text](https://github.com/sergioq12/Bind-Earth-Public/blob/main/images/RegistrationPage.png)
 
 ### Main Dashboard with Google Maps API integration
 
-(Dashboard image)
 ![alt text](https://github.com/sergioq12/Bind-Earth-Public/blob/main/images/MainDashboardPage.png)
 
-(Left nav bar image)
-![alt text](https://github.com/sergioq12/Bind-Earth-Public/blob/main/images/LeftNavBar.png)
 
 ### Trash Detection Statistics dashboard
 
-(Statistics dashboard image)
 ![alt text](https://github.com/sergioq12/Bind-Earth-Public/blob/main/images/StatisticsPage.png)
 
 ### Detection History
 
-(Trash Detection history image)
 ![alt text](https://github.com/sergioq12/Bind-Earth-Public/blob/main/images/DetectionHistoryPage.png)
 
 ### Account Settings
 
-(Image about account settings)
 ![alt text](https://github.com/sergioq12/Bind-Earth-Public/blob/main/images/AccountPage.png)
